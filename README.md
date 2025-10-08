@@ -1,4 +1,4 @@
-# 💰 Loan Default Detection App
+# 💰 Loan Default Detection 
 
 A Machine Learning web application built with **Streamlit** to predict whether a customer is likely to **default on a loan**.  
 This project demonstrates **data preprocessing, model training, and web deployment** for an end-to-end AI solution.
